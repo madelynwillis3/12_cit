@@ -508,7 +508,7 @@ For a nicer tree visualization, check out the package **ggparty**:
   - https://jtr13.github.io/cc19/introduction-to-package-ggparty.html  
   
 # Summary  
-In this exercise, we covered: 
+In this exercise, we covered:  (this will be on exam/final)
   - Conditional inference tree algorithm    
   - Set up a ML workflow to train an cit model  
   - Used `recipes` to process data
